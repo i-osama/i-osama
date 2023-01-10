@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osama Bin Hashim
-- 👀 I’m love travelling
+- 👀 I love travelling
 - 🌱 I’m currently learning Java
 
 <!---
